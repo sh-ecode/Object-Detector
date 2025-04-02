@@ -1,13 +1,5 @@
 # Visionary Tracker – Real-Time Object Detection & Tracking
 
-## Team Name: SheCode
-### Members:
-- **Palak Sharma**  
-- **Poorvi Gupta**  
-- **Yashika Sharma**  
-
----
-
 ## 🌟 Overview  
 Visionary Tracker is a **real-time object detection and tracking** system that leverages **AI-powered edge computing** to enhance security, retail, and assistive technology applications. The system operates entirely in the browser, offering **zero server dependency**, **real-time analytics**, and **audio alerts for critical objects** like weapons and obstacles.
 
